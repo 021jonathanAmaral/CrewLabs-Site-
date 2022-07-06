@@ -1,5 +1,7 @@
-jQuery(window).load(function () {
 
+ 
+jQuery(window).load(function () {
+  
 particlesJS("particles-js", {
   "particles": {
     "number": {
